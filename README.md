@@ -60,10 +60,8 @@ Enfocar las estrategias de retención en clientes nuevos con contratos mensuales
 ---
  
 ## Ejecutar el notebook
- 
-[![Abrir en Colab]([https://colab.research.google.com/drive/1aIo2bsxhvTAlVe9Z_uEFcqyOx63f8EZ3?usp=sharing](https://colab.research.google.com/drive/1aIo2bsxhvTAlVe9Z_uEFcqyOx63f8EZ3?authuser=2))
- 
-> Reemplazá el link del botón con la URL de tu Google Colab una vez que lo tengas publicado.
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aIo2bsxhvTAlVe9Z_uEFcqyOx63f8EZ3?usp=sharing)
  
 ---
  
